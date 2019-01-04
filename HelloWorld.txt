@@ -1,6 +1,7 @@
 class HelloWorld{
 
-main(){
-sysout("HelloWorld...");
+public static void main(String args[])
+{
+system.out.print("HelloWorld...");
 }
 }
