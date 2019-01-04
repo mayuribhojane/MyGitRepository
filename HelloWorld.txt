@@ -1,7 +1,7 @@
-class HelloWorld{
-
-public static void main(String args[])
+class HelloWorld
 {
-system.out.print("HelloWorld...");
-}
+	public static void main(String args[])
+	{
+		system.out.print("HelloWorld... Welcome to Git");
+	}
 }
